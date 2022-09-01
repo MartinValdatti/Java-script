@@ -1,0 +1,76 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+ .inicio {
+    color: blueviolet;
+    font-size: 60px;
+    border: 3px solid black;
+    
+}
+.us {
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    background-color: #ff91af;
+}
+.jordan {
+        width: 560px;
+        height: 315px;
+}
+.words{
+    font-family: 'Oswald', sans-serif;
+    background-color: aqua;
+    width: 300px;
+    border: 5px solid red;
+}
+.us{
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    background-color:black;
+}
+.productos{
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    background-color:black;
+}
+.contact{
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    background-color:black;
+}
+nav ul li{
+    width: 100%;
+    margin: 0;
+    height: 50px;
+    background-color: aquamarine;
+    z-index: 20;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    display: inline;
+    top: 0%;
+}
+nav ul{
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+.mapa {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.back {
+    background-image:url(../Imgs/1500x500.jfif) ;
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
